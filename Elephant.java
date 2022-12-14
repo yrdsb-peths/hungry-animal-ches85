@@ -13,6 +13,7 @@ public class Elephant extends Actor
     GreenfootImage idle[] = new GreenfootImage[8];    
     /**
      * Constructor - The code that gets run one time when object is created
+     * The elephant class
      */
     public Elephant()
     {
